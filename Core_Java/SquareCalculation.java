@@ -16,3 +16,8 @@ public class SquareCalculation {
         scanner.close();
     }
 }
+
+// Result :
+// Enter the side length of the square: 4
+// Area of the square: 16.0
+// Perimeter of the square: 16.0

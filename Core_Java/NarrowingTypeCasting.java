@@ -8,3 +8,7 @@ public class NarrowingTypeCasting {
         System.out.println("Narrowed int value: " + myInt);
     }
 }
+
+//Result :
+// Original double value: 9.78
+// Narrowed int value: 9
